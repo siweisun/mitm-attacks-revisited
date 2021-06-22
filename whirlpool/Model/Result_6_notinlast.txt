@@ -1,0 +1,2 @@
+TR, ini_r, ini_k, mat_r: d1, d2, m, t
+6,3,0:2,2,2,2

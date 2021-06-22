@@ -1,0 +1,1 @@
+TR, ini_r, mat_r: d1, d2, m, t
